@@ -19,6 +19,7 @@ namespace PruebaForm2
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            //Esto solo debe estar en el segundo repositorio
             //Esto es un cambio
         }
     }
